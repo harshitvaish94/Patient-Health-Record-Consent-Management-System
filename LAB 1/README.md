@@ -366,7 +366,7 @@ Each team member has submitted an individual PDF solution. All four submissions 
 | Team Member | SRN | PDF |
 |---|---|---|
 | Devika N | PES1UG24AM080 | `PES1UG24AM080.pdf` |
-| Naka Goya | PES1UG24AM107 | `PES1UG24AM107.pdf` |
+| Nakka Gopya | PES1UG24AM107 | `PES1UG24AM107.pdf` |
 | Bhavya K | PES1UG24AM066 | `PES1UG24AM066.pdf` |
 | Harshit Vaish | PES1UG24AM116 | `PES1UG24AM116.pdf` |
 

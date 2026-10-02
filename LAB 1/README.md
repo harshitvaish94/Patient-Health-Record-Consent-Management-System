@@ -12,7 +12,7 @@
 | Sl. No. | SRN | Name |
 |---|---|---|
 | 1 | PES1UG24AM080 | Devika N |
-| 2 | PES1UG24AM107 | Naka Goya |
+| 2 | PES1UG24AM107 | Nakka Gopya |
 | 3 | PES1UG24AM066 | Bhavya K |
 | 4 | PES1UG24AM116 | Harshit Vaish |
 

@@ -7,7 +7,7 @@ This repository contains the Software Engineering lab submissions of our team of
 | SRN | Name |
 |---|---|
 | PES1UG24AM080 | Devika N |
-| PES1UG24AM107 | Naka Goya |
+| PES1UG24AM107 | Nakka Gopya |
 | PES1UG24AM066 | Bhavya K |
 | PES1UG24AM116 | Harshit Vaish |
 
@@ -23,7 +23,7 @@ Patient-Health-Record-Consent-Management-System/
 ├── LAB 1/
 │   ├── README.md
 │   ├── PES1UG24AM080.pdf  (Devika N)
-│   ├── PES1UG24AM107.pdf  (Naka Goya)
+│   ├── PES1UG24AM107.pdf  (Nakka Gopya)
 │   ├── PES1UG24AM066.pdf  (Bhavya K)
 │   └── PES1UG24AM116.pdf  (Harshit Vaish)
 │

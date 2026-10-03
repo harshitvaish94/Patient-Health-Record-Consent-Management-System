@@ -2,10 +2,10 @@ Lab 3: Component Modeling & Architectural Pattern Selection
 
 
 
- **System** : Patient Health Record Consent Management System 
- **Name** : Nakka Gopya 
- **SRN** : PES1UG24AM107 
- **Section** : B 
+ **System** : Patient Health Record Consent Management System |
+ **Name** : Nakka Gopya |
+ **SRN** : PES1UG24AM107 |
+ **Section** : B |
 
 
 

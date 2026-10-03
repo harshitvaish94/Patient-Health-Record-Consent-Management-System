@@ -1,12 +1,10 @@
-# Patient Health Record Consent Management System
+Lab 3: Component Modeling & Architectural Pattern Selection
 
-## Project Information
+
 
 | Field | Details |
-|---|---|
+
 | **System** | Patient Health Record Consent Management System |
-| **Problem Statement** | #13 |
-| **Architecture** | Layered Architecture |
 | **Name** | Nakka Gopya |
 | **SRN** | PES1UG24AM107 |
 | **Section** | B |

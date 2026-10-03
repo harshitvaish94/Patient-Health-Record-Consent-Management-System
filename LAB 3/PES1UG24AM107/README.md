@@ -1,4 +1,4 @@
-Lab 3: Component Modeling & Architectural Pattern Selection
+**Lab 3: Component Modeling & Architectural Pattern Selection**
 
 
 

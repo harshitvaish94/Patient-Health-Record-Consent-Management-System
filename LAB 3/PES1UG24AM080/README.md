@@ -7,8 +7,12 @@
   
 
 ---
+## Project
+Patient Health Record Consent Management System (Problem Statement #13, Healthcare & Telemedicine).
 
-## 📁 Folder Contents
+A patient-centric health data gateway where patients grant time-bound consent for clinic doctors to access their diagnostic records. Patients can revoke consent at any time and view a full audit trail.
+
+## Folder Contents
 
 | File Name | Description |
 | :--- | :--- |
@@ -18,7 +22,7 @@
 
 ---
 
-## 🏗️️ Architectural Choice: 3-Tier Layered Architecture
+## Architectural Choice: 3-Tier Layered Architecture
 
 The **Patient Health Record Consent Management System** implements a strict 3-tier layered architecture where each layer communicates exclusively with the layer directly beneath it through well-defined ball-and-socket interfaces:
 
@@ -34,7 +38,7 @@ The **Patient Health Record Consent Management System** implements a strict 3-ti
 
 ---
 
-## 💡 Key Architectural Justifications
+## Key Architectural Justifications
 
 * **Single Enforcement Point for Consent Rules:** Every record request and consent evaluation (FR-001 to FR-003) is routed through the Business layer. The UI cannot access the Data layer directly, ensuring consent checks cannot be bypassed.
 * **Strong Consistency & Low Latency:** Supports the 5-second revocation target (FR-002) and append-only auditing (NFR-001) by keeping state in an authoritative data layer without the network latency or eventual consistency issues of microservices.
